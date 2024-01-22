@@ -1,25 +1,40 @@
-
 {
     "title": "",
     "media": [
-    {
-        "file": "/media/EngineOilQuantityLow-AI-Enhanced-100p.mp3",
-        "title": "Engine Oil Quantity Low Adobe AI",
-        "info": "(lyrics or other information can go here)",
-        "feature": true
-    },
-    {
-        "file": "/media/EngineOilQuantityLow.mp3",
-        "title": "Track 2",
-    },
+        {
+            "file": "EngineOilQuantityLow.mp3",
+            "type": "audio",
+            "feature": true,
+            "title": "EngineOilQuantityLow.mp3"
+        },
+        {
+            "file": "EngineOilQuantityLow-AI-Enhanced-100p.mp3",
+            "type": "audio",
+            "title": "EngineOilQuantityLow-AI-Enhanced-100p.mp3"
+        }
     ],
-    "cover": "",
     "theme": {
-        "coverSize": 480,
+        "titleStyle": "none",
+        "backgroundColor": "#1e1e1e",
+        "primaryColor": "#ffffff",
+        "primaryAltColor": "#838383",
+        "secondaryColor": "#000000",
+        "highlightColor": "#434343",
+        "primaryTextColor": "#ffffff",
+        "primaryAltTextColor": "#838383",
+        "previewStripeColor1": "#3f3f3f",
+        "previewStripeColor2": "#2c2c2c",
+        "linkColor": "#838383",
         "layoutStyle": "vertical",
         "infoStyle": "overlaid",
-        "contentWidth": 400,
-        "nativePlayer": false
+        "overlayTextColor": "#ffffff",
+        "overlayBackgroundColor": "#00000080",
+        "hideInfoDropdown": false,
+        "contentWidth": "400",
+        "coverSize": "480",
+        "nativePlayer": false,
+        "customCSS": ""
     },
-    "description": ""
+    "description": "",
+    "loopModeDefault": "none"
 }
