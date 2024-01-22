@@ -1,4 +1,7 @@
-"media": [
+
+{
+    "title": "",
+    "media": [
     {
         "file": "/media/EngineOilQuantityLow-AI-Enhanced-100p.mp3",
         "title": "Engine Oil Quantity Low Adobe AI",
@@ -9,4 +12,14 @@
         "file": "/media/EngineOilQuantityLow.mp3",
         "title": "Track 2",
     },
-]
+    ],
+    "cover": "",
+    "theme": {
+        "coverSize": 480,
+        "layoutStyle": "vertical",
+        "infoStyle": "overlaid",
+        "contentWidth": 400,
+        "nativePlayer": false
+    },
+    "description": ""
+}
