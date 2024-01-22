@@ -1,11 +1,8 @@
 # B58
 B-58 "Hustler" Voice Warning System
 
-<details>
-  <summary>Listen to the audio</summary>
-  <audio controls>
-    <source src="https://github.com/pgerhardt/B58/blob/main/EngineOilQuantityLow-AI-Enhanced-100p.mp3?raw=true" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-</details>
+
+
+Engine Oil Quantity Low
+https://github.com/pgerhardt/B58/assets/155868/17eb01d6-263f-49d3-93da-a52437cfa87a
 
